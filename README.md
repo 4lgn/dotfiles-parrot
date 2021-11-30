@@ -62,6 +62,14 @@ Open application `Keyboard Shortcuts` and set the following
 
 # Misc. MATE tweaks
 
+## Power management
+
+This is mainly regarding not dimming backlight brightness when on battery - I can control the screen brightness myself, thanks.
+
+![](./screenshots/power-management1.png)
+
+![](./screenshots/power-management2.png)
+
 ## Remove desktop icons
 
 `MATE Tweak` -> Desktop -> untick everything you don't want shown
