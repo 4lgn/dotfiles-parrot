@@ -4,6 +4,8 @@ These are my notes, dotfiles and tweaks/configurations made for the Parrot Secur
 
 As Parrot is running MATE, quite a bunch of configurations and tweaks have to be made through menus, in such cases I have tried to document how such is done in this README - rest of the tweaks are dotfiles etc. and should be able to be found in this repo.
 
+![](./screenshots/setup.png)
+
 # pwnbox theme
 
 Follow instructions by `theGuildHall` to emulate the pwnbox theme on your version of Parrot if you want - I would recommend following it at least just for the HTB VPN tweaks: https://github.com/theGuildHall/pwnbox
